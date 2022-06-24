@@ -31,5 +31,3 @@
   
   ![Snake animation](https://github.com/lucaspaulinoh/lucaspaulinoh/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
