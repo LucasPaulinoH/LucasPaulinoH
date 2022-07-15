@@ -1,9 +1,8 @@
 ### Hello there! Me chamo Lucas Paulino
 - 📚 Graduando em Ciência da Computação
 - 👓 Experiência em Java e C++
-- 🌱 Estudando JavaScript e NodeJS
+- 🌱 Estudando HTML, CSS & JavaScript
 - 📫 Contate-me pelo email: lucashsp12@hotmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/lucaspaulinoh">
