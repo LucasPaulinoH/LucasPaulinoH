@@ -1,6 +1,6 @@
 ### Hello there! Me chamo Lucas Paulino
 - 📚 Graduando em Ciência da Computação
-- 👓 Experiência em Java e C++
+- 👓 Experiência em Java, C++ e Python
 - 🌱 Estudando HTML, CSS & JavaScript
 - 📫 Contate-me pelo email: lucashsp12@hotmail.com
 
