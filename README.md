@@ -19,7 +19,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://img2.gratispng.com/20180817/fvr/kisspng-postgresql-database-installation-microsoft-sql-ser-bearle-5b7719c70a2b68.6265470715345320390417.jpg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
