@@ -1,7 +1,7 @@
 ### Hello there! Me chamo Lucas Paulino
 - 📚 Graduando em Ciência da Computação
-- 👓 Experiência em Javascript, Java & C++
-- 🌱 Estudando Typescript, React & Spring Boot 
+- 👓 Experiência em Typescript, Java & C++
+- 🌱 Estudando React & Spring Boot 
 - 📫 Contate-me pelo email: lucaspaulinoh@hotmail.com
 
 <div align="center">
