@@ -1,5 +1,5 @@
 # About me
-📚 Computer Scientist<br>👓 Experience with Typescript, React Js, Java & C++<br>🌱 Studying React Native & Spring Boot
+📚 Computer Scientist<br>👓 Experience with Typescript, React JS, Java & C++<br>🌱 Studying React Native & Spring Boot
 
 
 # Tech stack
