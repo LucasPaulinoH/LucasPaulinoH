@@ -1,5 +1,5 @@
 # About me
-📚 Full-Stack software developer<br>👓 Experience with Next JS, React, Node, Spring & React Native<br>🌱 Studying software testing and test automation
+📚 End-to-End Software Developer<br>👓 Experience with Next JS, React, Node, Spring & React Native<br>🌱 Studying software testing and test automation
 
 
 # Tech stack
